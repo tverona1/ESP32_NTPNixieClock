@@ -52,7 +52,7 @@
     The ESP32 is powered (via Vin) with 5VDC from a 5 volt regulator driven from
     the 12 VDC supply. The shield is powered directly from the 12 VDC supply.
 
-    Based on ESP8266_NTPNixieClock by Craig A. Lindley and NixeTubesShieldNCS14 by GRA & AFCH.
+    Based on ESP8266_NTPNixieClock by Craig A. Lindley and NixeTubesShieldNCS314 by GRA & AFCH.
 
     Copyright (c) 2019 Tomer Verona
 

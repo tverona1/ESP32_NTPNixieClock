@@ -1,4 +1,4 @@
-ESP32 NTP Nixie Tube Clock Program
+# ESP32 NTP Nixie Tube Clock Controller
 
 This hardware/software combination implements a Nixie tube digital clock that
 never needs setting as it gets the current time and date by polling
@@ -12,7 +12,6 @@ This program uses the WiFiManager library to allow WiFi credentials to be set
 via a web interface.
 
 ![Picture](nixie_clock_img.jpg)
-![Video](nixie_clock.mp4)
 
 How it works:
 

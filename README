@@ -11,6 +11,9 @@ Clock can run in 24 hour or 12 hour mode.
 This program uses the WiFiManager library to allow WiFi credentials to be set
 via a web interface.
 
+![Picture][nixie_clock_img.jpg]
+![Video][nixie_clock.mp4]
+
 How it works:
 
 When the program is first started it creates a wireless access point called NixieClock
